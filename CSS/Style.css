@@ -1,0 +1,36 @@
+body {
+    background-color: beige;
+    color: darkgray;
+    width: 100vw;
+    height: 100vh;
+}
+
+h1{
+    color: darkolivegreen;
+}
+
+.title {
+    color: firebrick;
+}
+
+.container {
+    background-color: blue;
+    height: 50%;
+}
+
+.presentation {
+width: 100px;
+height: 100px;
+background-color: aquamarine;
+}
+
+button {
+    background-color: blueviolet;
+    margin: 10px;
+    color: aliceblue;
+    padding: 10px;
+}
+
+.round{
+    border-radius: 50px;
+}
